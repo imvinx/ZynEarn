@@ -203,7 +203,7 @@ ZynEarn is a premium online earning platform where users complete tasks, surveys
 ### 1. Clone / Download Files
 
 ```bash
-git clone https://github.com/imvinx/zynearn.git
+git clone https://github.com/imvinx/ZynEarn.git
 cd zynearn
 ```
 
