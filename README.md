@@ -490,13 +490,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## 📞 Support
-
-- **Website**: [https://zynearn.com](https://zynearn.com)
-- **Email**: support@zynearn.com
-- **Discord**: [Join our server](https://discord.gg/zynearn)
-- **Telegram**: [@ZynEarnSupport](https://t.me/ZynEarnSupport)
-
----
-
 <p align="center">Made with ❤️ by the ZynEarn Team</p>
