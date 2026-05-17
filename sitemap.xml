@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url><loc>http://localhost/zyn-earn/index.php</loc><priority>1.0</priority><changefreq>daily</changefreq></url>
+    <url><loc>http://localhost/zyn-earn/auth/login.php</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+    <url><loc>http://localhost/zyn-earn/auth/register.php</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+    <url><loc>http://localhost/zyn-earn/pages/faq.php</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+    <url><loc>http://localhost/zyn-earn/pages/contact.php</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+    <url><loc>http://localhost/zyn-earn/pages/privacy.php</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+    <url><loc>http://localhost/zyn-earn/pages/terms.php</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+</urlset>

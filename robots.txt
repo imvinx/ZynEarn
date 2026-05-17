@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /api/
+Disallow: /system/
+Disallow: /config/
+Disallow: /cron/
+Sitemap: http://localhost/zyn-earn/sitemap.xml
