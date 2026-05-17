@@ -1,4 +1,109 @@
-# 🚀 ZynEarn - Turn Your Time Into Real Money
+<div align="center">
+
+# 🚧 ZynEarn - Turn Your Time Into Real Money
+
+<img src="https://img.shields.io/badge/STATUS-UNDER_DEVELOPMENT-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ERRORS-MULTIPLE-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-YES-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PHP-PROJECT-blue?style=for-the-badge" />
+
+<br>
+<br>
+
+⚠️ Experimental Open Source PHP Project
+
+This project is currently under heavy development and may contain bugs, broken pages, unfinished systems, security issues, and unstable functions.
+
+</div>
+
+---
+
+# ⚠️ Warning
+
+> This project is NOT production ready.
+>
+> Many systems are still incomplete and experimental.
+>
+> If you find any bugs or errors, feel free to report them or submit a pull request.
+
+---
+
+# 🛠 Current Status
+
+| Feature | Status |
+|---|---|
+| Frontend UI | ✅ Working |
+| Backend System | ⚠️ Partial |
+| Authentication | ⚠️ Unstable |
+| Database | ⚠️ Experimental |
+| API Integration | ❌ Incomplete |
+| Security | ❌ Needs Improvement |
+| Mobile Responsive | ⚠️ Partial |
+
+---
+
+# 📌 Known Issues
+
+- ❌ Random PHP errors
+- ❌ Some pages may crash
+- ❌ Database bugs
+- ❌ Session/login issues
+- ❌ UI responsiveness issues
+- ❌ Missing validations
+- ❌ Performance problems
+- ❌ Unoptimized code structure
+
+---
+
+# 🤝 Open Source Contributions
+
+If you are a developer and interested in improving this project, contributions are welcome.
+
+You can help by:
+
+- 🐛 Fixing bugs
+- ⚡ Optimizing code
+- 🎨 Improving UI/UX
+- 🔐 Improving security
+- 🚀 Adding new features
+- 📱 Improving responsiveness
+
+---
+
+# 🧪 Development Notice
+
+This project is still experimental.
+
+Development may continue slowly depending on:
+- Free time
+- Testing
+- Feature planning
+- Bug fixing
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+- ⭐ Star the repository
+- 🍴 Fork the project
+- 🛠 Contribute improvements
+- 🐞 Report issues
+
+---
+
+<div align="center">
+
+## 🚀 Made with PHP & Open Source Community
+
+<img src="https://img.shields.io/github/stars/imvinx/REPOSITORY?style=social" />
+<img src="https://img.shields.io/github/forks/imvinx/REPOSITORY?style=social" />
+<img src="https://img.shields.io/github/issues/imvinx/REPOSITORY" />
+
+</div>
+
+# INFO OF THIS PROJECT
 
 ZynEarn is a premium online earning platform where users complete tasks, surveys, offers, shortlinks, and other activities to earn real money. Built with PHP, MySQL, and a modern glassmorphic UI, it connects users with advertisers who pay for attention and actions.
 
